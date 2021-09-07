@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiyuanQiao
-- 👀 I’m interested in movies, basketball, videogames
+- 👀 I’m interested in movies, basketball, video games
 - 🌱 I’m currently learning Business Data Analytics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects about data analysis
 - 📫 How to reach me terryqiao2@gmail.com
 
 <!---
